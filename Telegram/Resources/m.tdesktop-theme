@@ -22,7 +22,7 @@
 //
 
 windowBg: #ffffff;
-windowFg: #000000;
+windowFg: #00000
 windowBgOver: #f1f1f1;
 windowBgRipple: #e5e5e5;
 windowFgOver: windowFg;
